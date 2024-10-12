@@ -1,0 +1,40 @@
++-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|decode                                                                                                                                                                       |
++-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|Your Password has been reset successfully. Try login with new password.                                                                                                      |
+|You have successfully signed up as a shop owner on Goodlii!                                                                                                                  |
+|Hi ${{shop_owner_firstName}}, your shop ${{shop_center_name}} has been created and is being reviewed.                                                                        |
+|Hi ${{shop_owner_firstName}},                                                                                                                                                |
+|Congratulations! your shop ${{shop_center_name}} has been approved successfully.                                                                                             |
+|Hi ${{shop_owner_firstName}}, your shop ${{shop_center_name}} has been disapproved. Please contact our team.                                                                 |
+|You have a new order from customer ${{customer_firstName}} on ${{item_order_order_date_time}}.                                                                               |
+|Your appointment ${{item_order_order_id}} has been rescheduled to ${{order_booking_date}}.                                                                                   |
+|Your appointment  has been  reschuduled by ${{shop_center_name}} to ${{item_order_order_date_time}}.                                                                         |
+|The appointment was rescheduled by the customer to ${{order_booking_date}}.                                                                                                  |
+|Booking was cancelled by customer on ${{order_booking_date}}.                                                                                                                |
+|New Appointment booked for ${{item_order_order_date_time}}.                                                                                                                  |
+|${{shop_center_name}} has been added to your favorite list.                                                                                                                  |
+|You have successfully signed up for ${{customer_firstName}}.                                                                                                                 |
+|Your Cart may expire soon. Please complete the payment.                                                                                                                      |
+|Your appointment ${{item_order_order_id}} on ${{order_booking_date}} has been cancelled by ${{shop_center_name}}.                                                            |
+|Opps! Seems something went wrong. Give a try again.                                                                                                                          |
+|Thanks for choosing ${{shop_center_name}}. We hope you had a great experience. Kindly review your experience.                                                                |
+|You have an appointment today at ${{shop_center_name}} at ${{item_order_order_date_time}}.                                                                                   |
+|${{pending_order_count}} or more appointments are in a PENDING state. Please close the appointment before EOD.                                                               |
+|Your appointment ${{item_order_order_id}} with ${{shop_center_name}} on ${{order_booking_date}} has been cancelled successfully. Your refunds (if any) will be processed soon|
+|Your order at ${{shop_center_name}} on ${{order_booking_date}} has been confirmed. Your order ID is ${{item_order_order_id}}.                                                |
+|Product ${{artifact_name}} quantity is below ${{artifact_low_stock_quantity}}.                                                                                               |
+|You have successfully purchased ${{voucher_name}} voucher from ${{shop_center_name}}                                                                                         |
+|You have used up voucher ${{voucher_name}} successfully at ${{shop_center_name}}.                                                                                            |
+|You have consumed 1 session on your membership ${{membership_name}}                                                                                                          |
+|The Goodlii convenience fee will be changed to ${{commission_commissionEnum}}, effective from ${{commission_appliedFromDate}}.                                               |
+|Your order at ${{shop_center_name}} on ${{order_booking_date}} has been confirmed. Your order ID is ${{shop_order_id}}.                                                      |
+|You have purchased ${{membership_name}} at ${{shop_center_name}}                                                                                                             |
+|Your membership ${{membership_name}} with ${{shop_center_name}} is expiring on ${{membership_end_time}}                                                                      |
+| There will be a revision of ${{commission_commissionEnum}} in our taxation structure, effective from ${{commission_appliedFromDate}}                                        |
+|Your membership ${{membership_name}} from ${{shop_center_name}} is expired                                                                                                   |
+|The order ${{order_number}} purchased on ${{created_at}} with ${{supplier_name}} has been cancelled.                                                                         |
+|The inventory control process on ${{created_at}} in ${{shop_center_name}} has been completed.                                                                                |
+|Your order with Order ID ${{item_order_order_id}} at ${{shop_center_name}} on ${{item_order_updated_at}} has been modified and partially cancelled.                          |
+|Your order with Order ID ${{item_order_order_id}} at ${{shop_center_name}} on ${{item_order_updated_at}} has been modified and partially cancelled.                          |
++-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
